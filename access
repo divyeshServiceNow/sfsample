@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<button onclick="myFunction()">Unlock Me</button>
+
+<script>
+function myFunction() {
+  window.open("https://www.w3schools.com");
+}
+</script>
+
+</body>
+</html>
